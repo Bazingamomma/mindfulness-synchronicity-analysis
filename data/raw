@@ -1,0 +1,5 @@
+/data
+    /raw          ← Your original daily log
+    /clean        ← Cleaned version later
+/notebooks        ← Future analysis (Python, R, etc.)
+/docs             ← Notes or screenshots
